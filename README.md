@@ -1,7 +1,9 @@
 # Biblioteca Virtual
 
 Biblioteca Virtual do Departamento de Informática da UEM
-Está biblioteca é aberta, portanto, de conhecimento de todos, inclusive de professores. Devido a isso, encorajamos a usá-la com sabedoria e em hipótese alguma realizar uma cópia dos trabalhos aqui contidos. Use-os apenas como referência para o desenvolvimento da sua solução própria.
+Está biblioteca é aberta, portanto, de conhecimento de todos, inclusive de professores. Devido a isso, encorajamos a usá-la com sabedoria e em hipótese alguma realizar uma cópia dos trabalhos contidos aqui. Use-os apenas como uma referência para o desenvolvimento da sua própria solução.
+
+Se você deseja contribuir com a biblioteca, por favor leia [aqui](CONTRIBUA.md).
 
 ## Índice
 
