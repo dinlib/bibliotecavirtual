@@ -10,6 +10,7 @@ Está biblioteca é aberta, portanto, de conhecimento de todos, inclusive de pro
   * [Algoritmos em Grafos](#algoritmos-em-grafos)
   * [Arquitetura e Organização de Computadores I](#arquitetura-e-organização-de-computadores-i)
   * [Arquitetura e Organização de Computadores II](#arquitetura-e-organização-de-computadores-ii)
+  * [Circuitos Digitais](#circuitos-digitais)
   * [Computação Gráfica](#computação-gráfica)
   * [Implementação de Linguagens de Programação](#implementação-de-linguagens-de-programação)
   * [Inteligência Artificial I](#inteligência-artificial-i)
@@ -54,6 +55,10 @@ Está biblioteca é aberta, portanto, de conhecimento de todos, inclusive de pro
 * [Simulador-mip32](https://github.com/dinlib/Simulador-mips32)
 * [Tomasulo](https://github.com/dinlib/Tomasulo)
 * [tomasulo-simulator](https://github.com/dinlib/tomasulo-simulator)
+
+### Circuitos Digitais
+
+* [circuitos_digitais](https://github.com/dinlib/circuitos_digitais)
 
 ### Computação Gráfica
 
@@ -105,6 +110,7 @@ Está biblioteca é aberta, portanto, de conhecimento de todos, inclusive de pro
 
 ### Paradigma de Programação Imperativa e Orientada a Objetos
 
+* [superMarioWorld](https://github.com/dinlib/superMarioWorld)
 * [War](https://github.com/dinlib/War)
 
 ### Paradigma de Programação Lógica e Funcional
@@ -133,6 +139,7 @@ Está biblioteca é aberta, portanto, de conhecimento de todos, inclusive de pro
 
 ### Programação de Sistemas Web
 
+* [ph7bank](https://github.com/dinlib/ph7bank)
 * [Sistema-Web-Vendas](https://github.com/dinlib/Sistema-Web-Vendas)
 
 ### Programação Orientada a Objetos
