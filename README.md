@@ -15,6 +15,7 @@ Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md
   * [Circuitos Digitais](#circuitos-digitais)
   * [Computação Gráfica](#computação-gráfica)
   * [Implementação de Linguagens de Programação](#implementação-de-linguagens-de-programação)
+  * [Implementação de Sistemas de Software](#implementação-de-sistemas-de-software)
   * [Inteligência Artificial I](#inteligência-artificial-i)
   * [Inteligência Artificial II](#inteligência-artificial-ii)
   * [Matemática Computacional](#matemática-computacional)
@@ -73,6 +74,10 @@ Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md
 * [grace](https://github.com/dinlib/grace)
 * [GraceCompilerZM](https://github.com/dinlib/GraceCompilerZM)
 * [nanilang](https://github.com/dinlib/nanilang)
+
+### Implementação de Sistemas de Software
+
+* [Kessinger](https://github.com/dinlib/kessinger)
 
 ### Inteligência Artificial I
 
