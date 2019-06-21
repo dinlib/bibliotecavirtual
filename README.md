@@ -100,6 +100,7 @@ Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md
 * [a-star](https://github.com/dinlib/a-star)
 * [a-star-1](https://github.com/dinlib/a-star-1)
 * [A_Star_Algorithm](https://github.com/dinlib/A_Star_Algorithm)
+* [AEstrela](https://github.com/dinlib/AEstrela)
 * [GeneticoTSP](https://github.com/dinlib/GeneticoTSP)
 * [p-mediana-capacitado](https://github.com/dinlib/p-mediana-capacitado)
 * [P-Medianas](https://github.com/dinlib/P-Medianas)
