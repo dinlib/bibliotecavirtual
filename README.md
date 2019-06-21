@@ -66,6 +66,7 @@ Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md
 
 * [CA2D](https://github.com/dinlib/CA2D)
 * [rhb-plot](https://github.com/dinlib/rhb-plot)
+* [Trabalho-CG](https://github.com/dinlib/Trabalho-CG)
 
 ### Implementação de Linguagens de Programação
 
@@ -118,9 +119,11 @@ Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md
 
 ### Paradigma de Programação Lógica e Funcional
 
+* [AgendadorReuniaoRacket](https://github.com/dinlib/AgendadorReuniaoRacket)
 * [Diagnostico_PPLF](https://github.com/dinlib/Diagnostico_PPLF)
 * [n-queen-prolog](https://github.com/dinlib/n-queen-prolog)
 * [PPFL](https://github.com/dinlib/PPLF)
+* [Quadrix](https://github.com/dinlib/Quadrix)
 * [Xadrez-Racket](https://github.com/dinlib/Xadrez-Racket)
 
 ### Processamento Digital de Sinais e Imagens
