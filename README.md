@@ -5,6 +5,8 @@ Está biblioteca é aberta, portanto, do conhecimento de todos, inclusive dos pr
 
 Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md).
 
+Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://abre.ai/libdin).
+
 ## Índice
 
 ### Disciplinas
@@ -119,6 +121,7 @@ Se você deseja contribuir com a biblioteca, por favor, leia [aqui](CONTRIBUA.md
 
 ### Paradigma de Programação Imperativa e Orientada a Objetos
 
+* [PPIOO-RPG-INTERFACES](https://github.com/dinlib/PPIOO-RPG-INTERFACES)
 * [superMarioWorld](https://github.com/dinlib/superMarioWorld)
 * [War](https://github.com/dinlib/War)
 
