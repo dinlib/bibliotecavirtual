@@ -12,8 +12,9 @@ Se você deseja adicionar uma entrada no `README.md` por favor considere o segui
 
 - a entrada possui algum tipo de valor e/ou aprendizado para os usuários que estão procurando por este conteúdo?
 - se você desejar adicionar algo, por favor, use o template `[nome_repositório](link_repositório)`
-- por favor, preste atenção à ordem alfabética.
+- por favor, preste atenção a ordem alfabética.
 
 ## Quem já contribuiu?
+- Luiz Fellipe Machi Pereira
 - Raphael Franco
 - Tiago Nascimento
