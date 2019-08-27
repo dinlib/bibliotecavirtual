@@ -15,7 +15,9 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
   * [Arquitetura e Organização de Computadores I](#arquitetura-e-organização-de-computadores-i)
   * [Arquitetura e Organização de Computadores II](#arquitetura-e-organização-de-computadores-ii)
   * [Circuitos Digitais](#circuitos-digitais)
+  * [Circuitos Digitais 2](#circuitos-digitais-2)
   * [Computação Gráfica](#computação-gráfica)
+  * [Estrutura de dados](#estrutura-de-dados)
   * [Implementação de Linguagens de Programação](#implementação-de-linguagens-de-programação)
   * [Implementação de Sistemas de Software](#implementação-de-sistemas-de-software)
   * [Inteligência Artificial I](#inteligência-artificial-i)
@@ -30,6 +32,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
   * [Programação de Sistemas Web](#programação-de-sistemas-web)
   * [Programação Orientada a Objetos](#programação-orientada-a-objetos)
   * [Programação para Interfaceamento Hardware Software](#programação-para-interfaceamento-hardware-software)
+  * [Projeto e Análise de Algoritmos](#projeto-e-análise-de-algoritmos)
   * [Sistemas Digitais](#sistemas-digitais)
   * [Sistemas Distribuídos](#sistemas-distribuídos)
   * [Sistemas Hipermídia e Multimídia](#sistemas-hipermídia-e-multimídia)
@@ -52,6 +55,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 ### Arquitetura e Organização de Computadores I
 
 * [architecture_simulator](https://github.com/dinlib/architecture_simulator)
+* [ARQ1](https://github.com/LFMP/ARQ1)
 * [SimuladorIAS](https://github.com/dinlib/SimuladorIAS)
 
 ### Arquitetura e Organização de Computadores II
@@ -65,11 +69,21 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 * [circuitos_digitais](https://github.com/dinlib/circuitos_digitais)
 
+### Circuitos Digitais 2
+* [CDII](https://github.com/LFMP/CDII)
+
 ### Computação Gráfica
 
 * [CA2D](https://github.com/dinlib/CA2D)
 * [rhb-plot](https://github.com/dinlib/rhb-plot)
 * [Trabalho-CG](https://github.com/dinlib/Trabalho-CG)
+
+### Estrutura de dados
+
+* [Animal_Guessing_Game](https://github.com/LFMP/Animal_Guessing_Game)
+* [Estrutura-de-Dados](https://github.com/LFMP/Estrutura-de-Dados)
+* [HashCounter](https://github.com/Viniciusvcr/HashCounter)
+* [SameGame](https://github.com/LFMP/SameGame)
 
 ### Implementação de Linguagens de Programação
 
@@ -167,6 +181,9 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [linked-list-assembly-ampliada](https://github.com/dinlib/linked-list-assembly-ampliada)
 * [pihs-labs](https://github.com/dinlib/pihs-labs)
 
+### Projeto e Análise de Algoritmos
+
+* [PAA](https://github.com/LFMP/PAA)
 
 ### Sistemas Digitais
 
