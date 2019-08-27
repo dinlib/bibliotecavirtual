@@ -55,7 +55,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 ### Arquitetura e Organização de Computadores I
 
 * [architecture_simulator](https://github.com/dinlib/architecture_simulator)
-* [ARQ1](https://github.com/LFMP/ARQ1)
+* [ARQ1](https://github.com/dinlib/ARQ1)
 * [SimuladorIAS](https://github.com/dinlib/SimuladorIAS)
 
 ### Arquitetura e Organização de Computadores II
@@ -69,8 +69,8 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 * [circuitos_digitais](https://github.com/dinlib/circuitos_digitais)
 
-### Circuitos Digitais 2
-* [CDII](https://github.com/LFMP/CDII)
+### Circuitos Digitais II
+* [CDII](https://github.com/dinlib/CDII)
 
 ### Computação Gráfica
 
@@ -183,7 +183,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 ### Projeto e Análise de Algoritmos
 
-* [PAA](https://github.com/LFMP/PAA)
+* [PAA](https://github.com/dinlib/PAA)
 
 ### Sistemas Digitais
 
