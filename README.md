@@ -15,7 +15,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
   * [Arquitetura e Organização de Computadores I](#arquitetura-e-organização-de-computadores-i)
   * [Arquitetura e Organização de Computadores II](#arquitetura-e-organização-de-computadores-ii)
   * [Circuitos Digitais](#circuitos-digitais)
-  * [Circuitos Digitais 2](#circuitos-digitais-2)
+  * [Circuitos Digitais 2](#circuitos-digitais-ii)
   * [Computação Gráfica](#computação-gráfica)
   * [Estrutura de dados](#estrutura-de-dados)
   * [Implementação de Linguagens de Programação](#implementação-de-linguagens-de-programação)
