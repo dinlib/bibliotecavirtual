@@ -224,6 +224,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
   
   * [Caio Tonetti](https://github.com/LionsWrath)
   * [Guilherme Chichanoski](https://github.com/GChicha)
+  * [Matheus Andrade] (https://github.com/MatheusINFO)
   * [Thiago Boccalon](https://github.com/ThiagoBoccalon)
   * [Tiago Nascimento](https://github.com/theosirian)
   * [Rafael Cortez Sanchez](https://github.com/rafaiska)
