@@ -230,6 +230,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
   * [Vanderson M. Do Rosario](https://github.com/vandersonmr)
   * [Vinícius Camargo](https://github.com/vcamarggo)
   * [Yukio Siraichi](https://github.com/ysiraichi)
+  * [Matheus Andrade] (https://github.com/MatheusINFO)
 
 ### Docentes
 
