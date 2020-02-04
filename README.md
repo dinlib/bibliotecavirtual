@@ -87,7 +87,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 ### Implementação de Linguagens de Programação
 
-* [calculator-frontend](https://github.com/abnerfsuniga/calculator-frontend)
+* [calculator-frontend](https://github.com/dinlib/calculator-frontend)
 * [grace](https://github.com/dinlib/grace)
 * [GraceCompilerZM](https://github.com/dinlib/GraceCompilerZM)
 * [nanilang](https://github.com/dinlib/nanilang)
