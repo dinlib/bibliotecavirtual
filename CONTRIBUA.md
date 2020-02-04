@@ -15,6 +15,7 @@ Se você deseja adicionar uma entrada no `README.md` por favor considere o segui
 - por favor, preste atenção a ordem alfabética.
 
 ## Quem já contribuiu?
+- Abner Ferreira Suniga
 - Luiz Fellipe Machi Pereira
 - Raphael Franco
 - Tiago Nascimento
