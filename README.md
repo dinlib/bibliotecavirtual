@@ -30,6 +30,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
   * [Processamento Digital de Sinais e Imagens](#processamento-digital-de-sinais-e-imagens)
   * [Programação Concorrente](#programação-concorrente)
   * [Programação de Sistemas Web](#programação-de-sistemas-web)
+  * [Programação em Linguagem de Montagem](#programação-para-interfaceamento-hardware-software)
   * [Programação Orientada a Objetos](#programação-orientada-a-objetos)
   * [Programação para Interfaceamento Hardware Software](#programação-para-interfaceamento-hardware-software)
   * [Projeto e Análise de Algoritmos](#projeto-e-análise-de-algoritmos)
@@ -176,11 +177,12 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [Clinica-Swing](https://github.com/dinlib/Clinica-Swing)
 
 ### Programação para Interfaceamento Hardware Software
-
+**Observação:** As disciplinas Programação em Linguagem de Montagem (PLM) e Programação para Interfaceamento Hardware Software (PIHS) são a mesma.
 * [6894_Linked_List_GNU_as](https://github.com/dinlib/6894_Linked_List_GNU_as)
 * [Laplace](https://github.com/dinlib/Laplace)
 * [linked-list-assembly-ampliada](https://github.com/dinlib/linked-list-assembly-ampliada)
 * [pihs-labs](https://github.com/dinlib/pihs-labs)
+* [Trabalho-PIHS](https://github.com/dinlib/Trabalho-PIHS)
 
 ### Projeto e Análise de Algoritmos
 
