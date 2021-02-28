@@ -69,6 +69,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 ### Circuitos Digitais
 
 * [circuitos_digitais](https://github.com/dinlib/circuitos_digitais)
+* [clock24](https://github.com/matheus-uem/CircuitosDigitais)
 
 ### Circuitos Digitais II
 * [CDII](https://github.com/dinlib/CDII)
