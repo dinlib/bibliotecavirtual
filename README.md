@@ -167,6 +167,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [PC_2017](https://github.com/dinlib/PC_2017)
 * [pc-cholesky](https://github.com/dinlib/pc-cholesky)
 * [PC_FloydWarshall](https://github.com/dinlib/PC_FloydWarshall)
+* [PC_trabs](https://github.com/gth1ago/PC_trabs)
 
 ### Programação de Sistemas Web
 
