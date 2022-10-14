@@ -62,6 +62,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 ### Arquitetura e Organização de Computadores II
 
 * [6895_Tomasulo_int](https://github.com/dinlib/6895_Tomasulo_int)
+* [Scoreboarding-arq](https://github.com/biadejesus/Scoreboarding-arq)
 * [Simulador-mip32](https://github.com/dinlib/Simulador-mips32)
 * [Tomasulo](https://github.com/dinlib/Tomasulo)
 * [tomasulo-simulator](https://github.com/dinlib/tomasulo-simulator)
@@ -109,6 +110,9 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [IA2_2017](https://github.com/dinlib/IA2_2017)
 * [IA2_Trab1_Investimento](https://github.com/dinlib/IA2_Trab1_Investimento)
 * [NaiveBayesAndSVM](https://github.com/dinlib/NaiveBayesAndSVM)
+* [Trab2IA](https://github.com/biadejesus/Trab2IA)
+* [Trabalho-1-IA](https://github.com/biadejesus/Trabalho-1-IA)
+
 
 ### Matemática Computacional
 
@@ -116,6 +120,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [MatematicaComputacional](https://github.com/dinlib/MatematicaComputacional)
 * [Newton-Raphson](https://github.com/dinlib/Newton-Raphson)
 * [Pade-e-Chebyshev](https://github.com/dinlib/Pade-e-Chebyshev)
+* [trabalhosMC](https://github.com/biadejesus/trabalhosMC)
 * [Triangulacao-de-sinais](https://github.com/dinlib/Triangulacao-de-sinais)
 
 ### Modelagem e Otimização Algorítmica
@@ -146,16 +151,21 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 * [AgendadorReuniaoRacket](https://github.com/dinlib/AgendadorReuniaoRacket)
 * [Diagnostico_PPLF](https://github.com/dinlib/Diagnostico_PPLF)
+* [DiagnosticoSaudeMental](https://github.com/biadejesus/DiagnosticoSaudeMental)
 * [n-queen-prolog](https://github.com/dinlib/n-queen-prolog)
 * [PPFL](https://github.com/dinlib/PPLF)
 * [Quadrix](https://github.com/dinlib/Quadrix)
+* [textual-similarity](https://github.com/biadejesus/textual-similarity)
 * [Xadrez-Racket](https://github.com/dinlib/Xadrez-Racket)
 
 ### Processamento Digital de Sinais e Imagens
 
+* [high-boost](https://github.com/biadejesus/high-boost)
 * [pdsi](https://github.com/dinlib/pdsi)
 * [pdi_2018](https://github.com/dinlib/pdi_2018)
 * [PSI](https://github.com/dinlib/PSI)
+* [Trabalhos-PDI](https://github.com/biadejesus/Trabalhos-PDI)
+
 
 ### Programação Concorrente
 
@@ -164,10 +174,13 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [Concorrente](https://github.com/dinlib/Concorrente)
 * [Concorrente-1](https://github.com/dinlib/Concorrente-1)
 * [LUDecomposition](https://github.com/dinlib/LUDecomposition)
+* [LU-Decomposition](https://github.com/biadejesus/LU-Decomposition)
 * [PC_2017](https://github.com/dinlib/PC_2017)
 * [pc-cholesky](https://github.com/dinlib/pc-cholesky)
 * [PC_FloydWarshall](https://github.com/dinlib/PC_FloydWarshall)
 * [PC_trabs](https://github.com/gth1ago/PC_trabs)
+* [SimulatedAnnealing](https://github.com/biadejesus/SimulatedAnnealing)
+* [SampleSort](https://github.com/biadejesus/SampleSort)
 
 ### Programação de Sistemas Web
 
@@ -183,6 +196,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [6894_Linked_List_GNU_as](https://github.com/dinlib/6894_Linked_List_GNU_as)
 * [Laplace](https://github.com/dinlib/Laplace)
 * [linked-list-assembly-ampliada](https://github.com/dinlib/linked-list-assembly-ampliada)
+* [Manipulador de Conjuntos Numericos](https://github.com/biadejesus/PIHS)
 * [pihs-labs](https://github.com/dinlib/pihs-labs)
 * [Trabalho-PIHS](https://github.com/dinlib/Trabalho-PIHS)
 
@@ -215,6 +229,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 * [6901_Client_Server](https://github.com/dinlib/6901_Client_Server)
 * [client_server](https://github.com/dinlib/client_server)
+* [client-server](https://github.com/biadejesus/client-server)
 * [trab_server](https://github.com/gth1ago/trab_server)
 
 ### Diversos
@@ -228,6 +243,7 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 
 ### Egressos
   
+  * [Beatriz de Jesus](https://github.com/biadejesus)
   * [Caio Tonetti](https://github.com/LionsWrath)
   * [Guilherme Chichanoski](https://github.com/GChicha)
   * [Thiago Boccalon](https://github.com/ThiagoBoccalon)
