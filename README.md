@@ -140,6 +140,8 @@ Considere visitar a segunda parte da nossa biblioteca no [Google Drive](http://a
 * [6897_Arq_Reg_LED](https://github.com/dinlib/6897_Arq_Reg_LED)
 * [Extensible-Hashing](https://github.com/dinlib/Extensible-Hashing)
 * [extendible-hashing](https://github.com/dinlib/extendible-hashing)
+* [Trabalho1-ORD](https://github.com/leovcorreia/Trabalho1-ORD)
+* [Trabalho-2-ORD](https://github.com/MuriloLCN/Trabalho-2-ORD)
 
 ### Paradigma de Programação Imperativa e Orientada a Objetos
 
